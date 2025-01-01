@@ -13,7 +13,10 @@ google-ads.yaml - Follow this and create all the required config details require
 You should have a googleads.yaml file that came with team-specific credentials. If you didn't there are instructions to follow here: 
 https://developers.google.com/adwords/api/docs/guides/first-api-call
 
-You can use get_ads.py to retreive your Refresh Token required for google-ads.yaml
+You can use get_ads.py to retreive your Refresh Token required for google-ads.yaml:
+```
+python get_ads.py
+```
 
 Run: 
 ```
