@@ -1,0 +1,4 @@
+google-ads==17.0.0
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+typing-extensions>=4.5.0
